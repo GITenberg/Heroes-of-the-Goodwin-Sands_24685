@@ -1,0 +1,26 @@
+_repo: Heroes-of-the-Goodwin-Sands_24685
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Treanor, Thomas Stanley
+    gutenberg_agent_id: '26672'
+    url: http://www.gutenberg.org/2009/agents/26672
+description: ''
+gutenberg_issued: '2008-02-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24685'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'VK'
+- !lcsh 'Lifesaving -- Great Britain'
+- !lcsh 'Goodwin Sands (England)'
+- !lcsh 'Shipwrecks'
+title: Heroes of the Goodwin Sands
+url: http://www.gutenberg.org/ebooks/24685
